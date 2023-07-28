@@ -1,6 +1,7 @@
 # 소개
 
 양질의 백엔드 개발 학습 자료들을 모은 저장소입니다.
+출처 https://github.com/Frankle97/study-collection-backend
 
 > 기술은 **JVM 언어**와 **스프링**에 집중되어 있습니다.
 
